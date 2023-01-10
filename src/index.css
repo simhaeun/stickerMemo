@@ -12,9 +12,8 @@ body {
 
 .addBtn {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate3d(-50%, -50%, 0);
+  top: 50px;
+  left: 50px;
   border-radius: 5px;
   cursor: pointer; 
   font-size: 30px;

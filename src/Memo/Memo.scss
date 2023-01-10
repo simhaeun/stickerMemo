@@ -2,7 +2,7 @@
   float: left;
   min-width: 250px;
   min-height: 300px;
-  margin: 0;
+  margin: 100px;
   padding: 0 0 26px;
   overflow: hidden;
   font-size: 1em;
@@ -12,6 +12,7 @@
   box-sizing: content-box;
   resize: both;
   position: absolute;
+  z-index: 1;
   .menu {
     height: 25px;
     padding: 0 10px;
