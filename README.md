@@ -1,5 +1,5 @@
 # 스티커메모
-![image](https://user-images.githubusercontent.com/58839497/211500453-0ab6f3d5-366a-4db8-a400-6d0cb2a0cb6b.png)
+![image](https://user-images.githubusercontent.com/58839497/211502105-bead36b1-e255-4a1b-a66b-4ddd0ab2b5ba.png)
 
 - draggable 컴포넌트
 - 메모 생성
